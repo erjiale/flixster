@@ -32,4 +32,4 @@ Here's a walkthrough of Flix Part 1:
 GIF created with [Recordit] (https://recordit.co).
 
 ### Notes
-I had some trouble with leveraging Auto Layout as it would not work for bigger size screen iPhones such as iPhone 8 Plus, or iPhone 11 Pro.
+I had some trouble with leveraging Auto Layout as it would not work for bigger size screen iPhones such as iPhone 8 Plus, or iPhone 11 Pro, but managed to solve the problem caused by some vertical constraint conflicts.
