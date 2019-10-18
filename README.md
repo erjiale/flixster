@@ -8,6 +8,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ## Flix Part 1
 
+Submitted by: Jiale Qiu
+
+Time Spent: 2 hour spent in total
+
 ### User Stories
 
 #### REQUIRED (10pts)
@@ -20,7 +24,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
+
+Here's a walkthrough of Flix Part 1:
+
 <img src="http://g.recordit.co/TgCZdUSio6.gif" width=250><br>
 
+GIF created with [Recordit] (https://recordit.co).
+
 ### Notes
-Describe any challenges encountered while building the app.
+I had some trouble with leveraging Auto Layout as it would not work for bigger size screen iPhones such as iPhone 8 Plus, or iPhone 11 Pro.
