@@ -27,8 +27,8 @@ Time Spent: 3 hours spent in total
 
 Here's a walkthrough of Flix Part 1 with different devices and device orientation:
 <p>
-  <img src="http://g.recordit.co/TgCZdUSio6.gif" width=100>
-  <img src="https://recordit.co/DKJiF30NrT.gif" width=100>
+  <img src="http://g.recordit.co/TgCZdUSio6.gif" width=250>
+  <img src="https://recordit.co/DKJiF30NrT.gif" width=250>
 </p>
 <img src="http://g.recordit.co/vXGhQEL4m1.gif"> <br>
 
