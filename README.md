@@ -28,7 +28,7 @@ Time Spent: 3 hours spent in total
 Here's a walkthrough of Flix Part 1:
 
 <img src="http://g.recordit.co/TgCZdUSio6.gif" width=250>
-<img src="https://recordit.co/DKJiF30NrT" width=250>
+<img src="https://recordit.co/DKJiF30NrT.gif" width=250>
 
 <img src="http://g.recordit.co/vXGhQEL4m1.gif" width=250> <br>
 
